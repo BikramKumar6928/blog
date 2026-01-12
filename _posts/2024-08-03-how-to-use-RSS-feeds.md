@@ -1,4 +1,5 @@
 ---
+layout: post
 title: How to use RSS Feeds
 date: 2024-08-03
 ---
