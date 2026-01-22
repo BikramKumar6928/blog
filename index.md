@@ -2,7 +2,7 @@
 layout: home
 title: Welcome to Bikram's Blog
 ---
-Welcome to my blog.
+Hello Readers. Welcome to my blog.
 
 This blog is supposed to be a dump for all the thoughts that I have that I want to share with the world.
 
